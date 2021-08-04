@@ -1,0 +1,11 @@
+.cart-div {
+  margin-top: 5px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-weight: 400;
+}
+.cart-div:hover {
+  border: 2px solid lightskyblue;
+  border-radius: 7px;
+}
